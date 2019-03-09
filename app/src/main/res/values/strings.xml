@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculateRepMax</string>
+    <string name="action_delete">Clear Records</string>
+    <string name="weight_pounds_unit">lbs</string>
+    <string name="one_rep_max_record">1 RM Record</string>
+    <string name="import_file">Import File</string>
+    <string name="enter_file_name">Enter File Name: example </string>
+    <string name="instruction">1. To Import File: Please make sure you add the file to the resource raw folder in all lowercase.\n2. Rebuild the app.\n3. Type in the file name without extension.\n4. Click Import and wait till complete</string>
+</resources>

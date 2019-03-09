@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f05f53</color>
+    <color name="colorPrimaryDark">#202425</color>
+    <color name="colorAccent">#c05149</color>
+    <color name="activityBackgroundDark">#202425</color>
+    <color name="menuBarBackground">#f05f53</color>
+    <color name="textColor">#ffffff</color>
+    <color name="subTextColor">#676a6b</color>
+    <color name="chartLineColor">#c05149</color>
+</resources>
